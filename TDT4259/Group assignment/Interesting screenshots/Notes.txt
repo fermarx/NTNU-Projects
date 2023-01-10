@@ -1,0 +1,4 @@
+LatitudeLongitude.png- Each point represents one customer
+LatitudeLongitudeCLTV.png- Red means low, green means high. Altitude depends on number of customers
+LatitudeLongitudeChurnScore.png- Blue means low, orange means high. Altitude depends on number of customers
+LatitudeLongitudeAge.png- Red means young, dark blue means old. Altitude depends on number of customers
