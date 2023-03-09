@@ -1,0 +1,12 @@
+parameters:
+  key_name: KEY_NAME
+  flavor: m1.medium
+  public_net: ntnu-internal
+  private_net_name: puppet-learning-net
+  private_net_cidr: 192.168.101.0/24
+  private_net_gateway: 192.168.101.1
+  private_net_pool_start: 192.168.101.200
+  private_net_pool_end: 192.168.101.250
+  sec_groups: default 
+  image: Puppet Learning VM 2019.0.2 6.10
+  name: puppet_learning_vm
